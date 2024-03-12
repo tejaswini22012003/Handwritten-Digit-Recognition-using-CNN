@@ -1,7 +1,7 @@
 # Handwritten-Digit-Recognition-using-CNN
 AIML Internship
 
-Handwritten Digit Recognition using Convolutional Neural Networks
+# Handwritten Digit Recognition using Convolutional Neural Networks
 Introduction
 
 📝 This project focuses on developing a Handwritten Digit Recognition system using machine learning techniques, specifically leveraging Convolutional Neural Networks (CNNs). Handwriting recognition is crucial in today's digital age for efficiently processing information, with applications ranging from license plate recognition to historical document preservation. Deep neural architectures, such as CNNs, have shown significant advantages over shallow networks, excelling at automatically identifying important features in images.
