@@ -1,5 +1,5 @@
 # Handwritten-Digit-Recognition-using-CNN
-AIML Internship
+AIML Project
 
 Allow networks, excelling at automatically identifying important features in images.
 # Handwritten Digit Recognition using Convolutional Neural Networks
